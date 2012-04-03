@@ -1,1 +1,9 @@
 Software cad em desenvolvimento para diagnóstico de cancer de mama.
+
+O arquivo main.m é o programa principal. 
+
+As quatro primeiras células definem os parametros do algoritmo:
+Célula 1: Quais instancias seram utilizadas;
+Célula 2: Qual base será utilizada;
+Célula 3: Número de folds para validação cruzada;
+Célula 4: Quais extratores de carteristicas seram utilizados.
